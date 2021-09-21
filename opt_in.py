@@ -1,5 +1,5 @@
 from utility import Utility
-from algosdk.future.transaction import AssetConfigTxn, AssetTransferTxn, AssetFreezeTxn
+from algosdk.future.transaction import AssetTransferTxn
 
 ############
 ## Opt In ##
